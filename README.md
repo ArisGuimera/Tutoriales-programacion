@@ -10,6 +10,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 - [Desarrollo profesional](#desarrollo-profesional)
 - [Frontend](#frontend)
 - [Flutter](#flutter)
+- [Inteligencia artificial](#ia)
 - [iOS](#ios)
 - [Juegos (motores gráficos)](#juegos)
 - [Robótica](#robotica)
@@ -24,10 +25,12 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [UskoKruM2010](https://www.youtube.com/c/UskoKruM2010/)
 * [Fazt](https://www.youtube.com/c/FaztTech/videos)
 * [Julián Duque](https://www.youtube.com/c/JulianDavidDuque/)
+* [Código facilito](https://www.youtube.com/c/codigofacilito)
 
 ### Ciberseguridad
 * [Álvaro Chirou](https://www.youtube.com/user/racochi)
 * [Alan Levy](https://www.youtube.com/c/AlanLevy-ElMago)
+* [s4vitar](https://www.youtube.com/s4vitar)
 
 ### Desarrollo profesional
 * [Hola Mundo](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
@@ -60,9 +63,13 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Joan Leon](https://www.youtube.com/channel/UChE1i1V9J06_yfx4NyAMyyA)
 * [La cocina del código](https://www.youtube.com/channel/UCY2ogSxB2beBNBRMKU_dXzA)
 * [Rambito JS](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA)
+* [Código facilito](https://www.youtube.com/c/codigofacilito)
 
 ### Flutter
 * [Aitor Sánchez YT](https://www.youtube.com/channel/UCSrwYV3ftCprDzZwIslfqVQ?app=desktop)
+
+### IA
+* [Jap Software](https://www.youtube.com/c/JapSoftwareUdemy/)
 
 ### iOS
 * [MoureDev](https://www.youtube.com/c/MouredevApps)
@@ -72,6 +79,8 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Guinxu](https://www.youtube.com/user/GuinxuVideos)
 * [Alva Majo](https://www.youtube.com/user/5ro4)
 * [Butter Games](https://www.youtube.com/c/ButterGames/videos)
+* [Vrimlex Games](https://www.youtube.com/c/VrimlexGames/)
+* [HelleworldYT](https://www.youtube.com/channel/UCjKXiQauEZBw-oLPiw--vgg)
 
 ### Robótica
 * [El taller de TD](https://www.youtube.com/channel/UCqs6fKCKeNlzsOZAJFMsLAg)
