@@ -66,6 +66,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 
 ### iOS
 * [MoureDev](https://www.youtube.com/c/MouredevApps)
+* [SwiftBeta](https://www.youtube.com/swiftbeta)
 
 ### Juegos
 * [Guinxu](https://www.youtube.com/user/GuinxuVideos)
