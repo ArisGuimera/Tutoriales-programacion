@@ -71,7 +71,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Código Correcto](https://www.youtube.com/c/C%C3%B3digoCorrecto)
 * [Eliecer Coding](https://www.youtube.com/c/EliecerCoding)
 * [Grinch Code](https://www.youtube.com/c/GrinchCode)
-
+* [NoScopeDevs](https://www.youtube.com/c/NoScopeDevs)
 
 ### IA
 * [Jap Software](https://www.youtube.com/c/JapSoftwareUdemy/)
