@@ -68,7 +68,9 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 ### Flutter
 * [Aitor Sánchez YT](https://www.youtube.com/channel/UCSrwYV3ftCprDzZwIslfqVQ?app=desktop)
 * [diegoveloper](https://www.youtube.com/c/diegoveloper) 
-* [diegoveloper](https://www.youtube.com/c/C%C3%B3digoCorrecto)
+* [Código Correcto](https://www.youtube.com/c/C%C3%B3digoCorrecto)
+* [Eliecer Coding](https://www.youtube.com/c/EliecerCoding)
+* [Grinch Code](https://www.youtube.com/c/GrinchCode)
 
 
 ### IA
