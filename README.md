@@ -14,6 +14,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 - [iOS](#ios)
 - [Juegos (motores gráficos)](#juegos)
 - [Robótica](#robotica)
+- [Rust](#rust)
 ##
 ### Android
 * [AristiDevs](https://www.youtube.com/c/AristiDevs)
@@ -90,3 +91,8 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 
 ### Robótica
 * [El taller de TD](https://www.youtube.com/channel/UCqs6fKCKeNlzsOZAJFMsLAg)
+
+
+### Rust
+* [robertohuertasm](https://www.youtube.com/c/robertohuertasm)
+
