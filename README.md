@@ -14,6 +14,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 - [iOS](#ios)
 - [Juegos (motores gráficos)](#juegos)
 - [Robótica](#robotica)
+- [Rust](#rust)
 ##
 ### Android
 * [AristiDevs](https://www.youtube.com/c/AristiDevs)
@@ -67,6 +68,11 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 
 ### Flutter
 * [Aitor Sánchez YT](https://www.youtube.com/channel/UCSrwYV3ftCprDzZwIslfqVQ?app=desktop)
+* [diegoveloper](https://www.youtube.com/c/diegoveloper) 
+* [Código Correcto](https://www.youtube.com/c/C%C3%B3digoCorrecto)
+* [Eliecer Coding](https://www.youtube.com/c/EliecerCoding)
+* [Grinch Code](https://www.youtube.com/c/GrinchCode)
+* [NoScopeDevs](https://www.youtube.com/c/NoScopeDevs)
 
 ### IA
 * [Jap Software](https://www.youtube.com/c/JapSoftwareUdemy/)
@@ -85,3 +91,8 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 
 ### Robótica
 * [El taller de TD](https://www.youtube.com/channel/UCqs6fKCKeNlzsOZAJFMsLAg)
+
+
+### Rust
+* [robertohuertasm](https://www.youtube.com/c/robertohuertasm)
+
