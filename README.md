@@ -27,6 +27,8 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Fazt](https://www.youtube.com/c/FaztTech/videos)
 * [Julián Duque](https://www.youtube.com/c/JulianDavidDuque/)
 * [Código facilito](https://www.youtube.com/c/codigofacilito)
+* [Miw upm](https://www.youtube.com/c/miwupm)
+
 
 ### Ciberseguridad
 * [Álvaro Chirou](https://www.youtube.com/user/racochi)
