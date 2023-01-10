@@ -35,6 +35,9 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Alan Levy](https://www.youtube.com/c/AlanLevy-ElMago)
 * [s4vitar](https://www.youtube.com/s4vitar)
 
+### DAM/DAW
+* [DiscoDurodeRoer](https://www.youtube.com/discoduroderoer)
+
 ### Desarrollo profesional
 * [Hola Mundo](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
 * [BettaTech](https://www.youtube.com/channel/UCSf6S_PAhXsqGMTPDiKgdRg)
@@ -82,6 +85,9 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 ### iOS
 * [MoureDev](https://www.youtube.com/c/MouredevApps)
 * [SwiftBeta](https://www.youtube.com/swiftbeta)
+
+### Java
+* [DiscoDurodeRoer](https://www.youtube.com/discoduroderoer)
 
 ### Juegos
 * [Guinxu](https://www.youtube.com/user/GuinxuVideos)
