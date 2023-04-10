@@ -20,6 +20,8 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [AristiDevs](https://www.youtube.com/c/AristiDevs)
 * [MoureDev](https://www.youtube.com/c/MouredevApps)
 * [DevExperto](https://www.youtube.com/channel/UCV31octs5hft6bZmokUgQlA)
+* [Gabi Moreno](https://www.youtube.com/@soygabimoreno)
+
 
 ### Backend
 * [HDLeon](https://www.youtube.com/channel/UCDUdeFslCNoM29MAlZOfdWQ)
