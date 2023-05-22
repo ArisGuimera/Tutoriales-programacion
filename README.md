@@ -98,6 +98,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Vrimlex Games](https://www.youtube.com/c/VrimlexGames/)
 * [HelleworldYT](https://www.youtube.com/channel/UCjKXiQauEZBw-oLPiw--vgg)
 * [Raven Games](https://www.youtube.com/c/RavenGamesSpain)
+* [Rafa Laguna](https://www.youtube.com/RafaLagoon)
 
 ### Robótica
 * [El taller de TD](https://www.youtube.com/channel/UCqs6fKCKeNlzsOZAJFMsLAg)
