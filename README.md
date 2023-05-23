@@ -13,9 +13,10 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 - [Inteligencia artificial](#ia)
 - [iOS](#ios)
 - [Juegos (motores gráficos)](#juegos)
-- [Robótica](#robotica)
+- [Robótica](#robótica)
 - [Rust](#rust)
-##
+
+
 ### Android
 * [AristiDevs](https://www.youtube.com/c/AristiDevs)
 * [MoureDev](https://www.youtube.com/c/MouredevApps)
@@ -30,6 +31,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Julián Duque](https://www.youtube.com/c/JulianDavidDuque/)
 * [Código facilito](https://www.youtube.com/c/codigofacilito)
 * [Miw upm](https://www.youtube.com/c/miwupm)
+* [TodoCode](https://www.youtube.com/todocode)
 
 
 ### Ciberseguridad
@@ -37,8 +39,10 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Alan Levy](https://www.youtube.com/c/AlanLevy-ElMago)
 * [s4vitar](https://www.youtube.com/s4vitar)
 
+
 ### DAM/DAW
 * [DiscoDurodeRoer](https://www.youtube.com/discoduroderoer)
+
 
 ### Desarrollo profesional
 * [Hola Mundo](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
@@ -49,6 +53,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Manuel Zapata](https://www.youtube.com/c/ManuelZapata/)
 * [Coderos](https://www.youtube.com/c/Coderos/)
 * [Programador X](https://www.youtube.com/user/VueloEternoEstudios)
+
 
 ### Frontend
 * [CarlosAzaustre](https://www.youtube.com/user/azaman1984)
@@ -72,24 +77,31 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [La cocina del código](https://www.youtube.com/channel/UCY2ogSxB2beBNBRMKU_dXzA)
 * [Rambito JS](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA)
 * [Código facilito](https://www.youtube.com/c/codigofacilito)
+* [TodoCode](https://www.youtube.com/todocode)
+
 
 ### Flutter
 * [Aitor Sánchez YT](https://www.youtube.com/channel/UCSrwYV3ftCprDzZwIslfqVQ?app=desktop)
-* [diegoveloper](https://www.youtube.com/c/diegoveloper) 
+* [diegoveloper](https://www.youtube.com/c/diegoveloper)
 * [Código Correcto](https://www.youtube.com/c/C%C3%B3digoCorrecto)
 * [Eliecer Coding](https://www.youtube.com/c/EliecerCoding)
 * [Grinch Code](https://www.youtube.com/c/GrinchCode)
 * [NoScopeDevs](https://www.youtube.com/c/NoScopeDevs)
 
+
 ### IA
 * [Jap Software](https://www.youtube.com/c/JapSoftwareUdemy/)
+
 
 ### iOS
 * [MoureDev](https://www.youtube.com/c/MouredevApps)
 * [SwiftBeta](https://www.youtube.com/swiftbeta)
 
+
 ### Java
 * [DiscoDurodeRoer](https://www.youtube.com/discoduroderoer)
+* [TodoCode](https://www.youtube.com/todocode)
+
 
 ### Juegos
 * [Guinxu](https://www.youtube.com/user/GuinxuVideos)
@@ -98,6 +110,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Vrimlex Games](https://www.youtube.com/c/VrimlexGames/)
 * [HelleworldYT](https://www.youtube.com/channel/UCjKXiQauEZBw-oLPiw--vgg)
 * [Raven Games](https://www.youtube.com/c/RavenGamesSpain)
+
 
 ### Robótica
 * [El taller de TD](https://www.youtube.com/channel/UCqs6fKCKeNlzsOZAJFMsLAg)
