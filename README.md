@@ -21,6 +21,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [MoureDev](https://www.youtube.com/c/MouredevApps)
 * [DevExperto](https://www.youtube.com/channel/UCV31octs5hft6bZmokUgQlA)
 * [Gabi Moreno](https://www.youtube.com/@soygabimoreno)
+* [DevKiper](https://www.youtube.com/@DevKiper)
 
 
 ### Backend
