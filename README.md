@@ -43,6 +43,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 
 ### DAM/DAW
 * [DiscoDurodeRoer](https://www.youtube.com/discoduroderoer)
+* [Pildorasinformaticas](https://www.youtube.com/@pildorasinformaticas)
 
 
 ### Desarrollo profesional
