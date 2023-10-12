@@ -93,6 +93,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 
 ### IA
 * [Jap Software](https://www.youtube.com/c/JapSoftwareUdemy/)
+* [DotCSV](https://m.youtube.com/@DotCSV)
 
 
 ### iOS
