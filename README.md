@@ -55,6 +55,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 * [Manuel Zapata](https://www.youtube.com/c/ManuelZapata/)
 * [Coderos](https://www.youtube.com/c/Coderos/)
 * [Programador X](https://www.youtube.com/user/VueloEternoEstudios)
+* [Dot Dager](https://www.youtube.com/@DotDager/videos)
 
 
 ### Frontend
@@ -104,6 +105,7 @@ Este listado recopila todos a los creadores de contenido técnico de habla hispa
 ### Java
 * [DiscoDurodeRoer](https://www.youtube.com/discoduroderoer)
 * [TodoCode](https://www.youtube.com/todocode)
+* [Programación ATS](https://www.youtube.com/@ProgramacionATS/videos)
 
 
 ### Juegos
